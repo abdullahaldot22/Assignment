@@ -2,7 +2,7 @@
 
 In case of `classInharitance` & `encapsulation` Download those directory in your computer, open your browser & nevigate to those directory separately.
 
-& In case of `toDoApp` just download the rar file and extract in your desired directory. Now, open 2 terminal (command prompt / power shell) tabs or window & run each commands separately & visit from your browser to this URL `http://localhost:8000`.
+& In case of `toDoApp` just download the `rar` file and extract in your desired directory. Now, open 2 terminal (command prompt / power shell) tabs or window & run each commands separately & visit from your browser to this URL `http://localhost:8000`.
 
 ```shell
 php artisan serve
@@ -10,3 +10,6 @@ php artisan serve
 ```shell
 yarn dev
 ```
+
+> [!NOTE]
+> No need for any kind of database setup, as a database I've used sqlite. That `rar` file should contain an `sqlite.database` file. After running those servers, everything should work properly.
