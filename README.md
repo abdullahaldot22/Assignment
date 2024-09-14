@@ -1,6 +1,6 @@
 # Assignment
 
-In case of `classInharitance` & `encapsulation` Download those directory in your computer, open your browser & nevigate to those directory separately.
+In case of `classInharitance` & `encapsulation` Download those directory in your computer's xampp or wampp's `htdocs` folder, start the apache server; now open your browser & nevigate to those directory separately.
 
 & In case of `toDoApp` just download the `rar` file and extract in your desired directory. Now, open 2 terminal (command prompt / power shell) tabs or window & run each commands separately & visit from your browser to this URL `http://localhost:8000`.
 
