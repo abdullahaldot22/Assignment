@@ -17,7 +17,7 @@ class Employee
 
     public function getSalary() : int
     {
-        return $this->setSalary($this->salary);
+        return $this->salary;
     }
 
     /**
@@ -41,8 +41,9 @@ class Employee
 
 try {
     $employee = new Employee("John Doe", "100");
-    $employee->setSalary(150);
 
+
+    $employee->setSalary(150);
     $employee->displayResult();
 
 
