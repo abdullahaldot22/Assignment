@@ -12,4 +12,4 @@ yarn dev
 ```
 
 > [!NOTE]
-> No need for any kind of database setup, as a database I've used sqlite. That `rar` file should contain an `sqlite.database` file. After running those servers, everything should work properly.
+> No need for any kind of database setup in `toDoApp`, as a database I've used sqlite. That `rar` file should contain an `sqlite.database` file. After running those servers, everything should work properly.
